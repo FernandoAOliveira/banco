@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  agency_number: 1
+  account_number: 1
+  balance: 1.5
+  status: false
+  user: one
+
+two:
+  agency_number: 1
+  account_number: 1
+  balance: 1.5
+  status: false
+  user: two
